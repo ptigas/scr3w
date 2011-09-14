@@ -1,0 +1,115 @@
+body {
+	font-family:arial,tahoma,helvetica,sans-serif;
+	width:950px;
+	margin:auto;
+	font-size:12px;
+}
+
+a {
+	color:blue;
+	text-decoration: underine;
+}
+
+#pages {
+	margin-top: 10px;
+	font-size:12px;
+	margin-bottom:10px;
+}
+
+#pages a{
+	border:1px solid #c0c0c0;
+	padding:5px;
+	text-decoration: none;
+	background:#eee;
+	color:#333;
+}
+
+#pages a.active{
+	border:1px solid #c0c0c0;
+	padding:5px;
+	text-decoration: none;
+	background:#333;
+	color:#eee;
+}
+
+h1 {
+	font-size:21px;
+	margin:0;
+	padding:0;
+	margin-left:11px;
+	color:#222;
+}
+
+table{
+	width:100%;
+	font-size:12px;
+	line-height:18px;
+}
+
+table th {
+	font-family:arial,tahoma,helvetica,sans-serif;
+	font-size:11px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	
+	padding:4px 3px 4px 5px;
+	position:relative;
+	
+	line-height:15px;
+}
+
+table.view th {
+
+	background:#fff url(grid3-hrow.gif) repeat-x left bottom;
+}
+
+table tr {
+	padding:3px 3px 3px 5px;
+	font-size:12px;
+	line-height:18px;
+	font-family:tahoma,arial,helvetica,sans-serif;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	border-style:solid;	
+}
+
+table.view tr:hover {
+	background:#eee;
+}
+
+table.view td {
+	border-bottom:1px solid #ededed;
+	border-top-color:#fff;
+
+}
+
+#footer{
+	margin-top:10px;
+	color:#333;
+	text-align:right;
+}
+
+a img{
+	border-style:none;
+	text-decoration:none;
+}
+
+div.error {
+  background-color: #ffdddd;
+  border: 1px solid #ffaaaa;
+  color: #ff2222;
+  margin: 1em;
+  padding: 1em;
+}
+
+div.info {
+  background-color: #ddffdd;
+  border: 1px solid #99ff99;
+  color: #22bb22;
+  margin: 1em;
+  padding: 1em;
+}
