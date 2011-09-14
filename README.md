@@ -4,6 +4,6 @@ Screw project - A screw supplier stock administration. Developed for the course 
 
 Contributors
 ---
-Panagiotis Tigkas <http://ptigas.com>
-Aggelos Orfanakos <http://agorf.gr>
-Dimitris Nastos 
+* Panagiotis Tigkas <http://ptigas.com>
+* Aggelos Orfanakos <http://agorf.gr>
+* Dimitris Nastos 
