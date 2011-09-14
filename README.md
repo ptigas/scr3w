@@ -1,6 +1,6 @@
 Project
 ---
-Screw project - A screw supplier stock administration. Developed for the course of Advanced Database Systems @ university of Ioannina (2009).
+Screw project - A screw supplier stock administration application. Developed for the course of Advanced Database Systems @ university of Ioannina (2009).
 
 Contributors
 ---
